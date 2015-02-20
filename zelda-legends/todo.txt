@@ -1,0 +1,14 @@
+  Top Priority:
+
+-restart work again after a long break full of illness, work and school - when I recover ofcourse :-)
+-Fix the compiling problem on zl_hyrule
+
+  Mid Priority:
+
+-Sort out coding into folders and recursively add using 'resource.Add'
+
+  Low Priority:
+
+-Collect all maps in from mappers
+
+  -Magic

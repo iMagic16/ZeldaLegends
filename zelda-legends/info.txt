@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"Zelda Legends BETA V0.158"
+	"version"	   "0.1.5.8"
+    "up-date"       "January, Febuary, April, June 2011"
+	"author_name"	"Team rANdOm"
+	"author_email"	"proz6@live.co.uk"
+	"author_url"	"www.randomgs.com"
+	
+	"info"		"JanFebApril - Ill/working may, Jun"
+	"hide"		"0"
+}

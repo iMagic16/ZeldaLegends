@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Weapons\V_crowbar_link/LinkSS17"
+	"$halflambert" 1
+}

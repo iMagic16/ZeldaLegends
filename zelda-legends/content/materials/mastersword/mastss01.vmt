@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "mastersword\mastSS01"
+//	"$envmapcontrast" "1"
+	"$envmaptint" "[1 1 1]"
+	"$envmapsaturation" "[1 1 1]"
+}
+
+

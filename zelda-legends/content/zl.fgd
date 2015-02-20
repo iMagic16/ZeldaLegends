@@ -1,0 +1,47 @@
+//-------------------------------------------------------------------------
+//
+// Forge Game data for Zelda legends, TTT FGD was used as a Base
+//
+//-------------------------------------------------------------------------
+
+//-------------------------------------------------------------------------
+// _______                                  _   _     _  ____      -Magic      
+//|__   __|                           /\   | \ | |   | |/ __ \           
+//   | | ___  __ _ _ __ ___     _ __ /  \  |  \| | __| | |  | |_ __ ___  
+//   | |/ _ \/ _` | '_ ` _ \   | '__/ /\ \ | . ` |/ _` | |  | | '_ ` _ \ 
+//   | |  __/ (_| | | | | | |  | | / ____ \| |\  | (_| | |__| | | | | | |
+//   |_|\___|\__,_|_| |_| |_|  |_|/_/    \_\_| \_|\__,_|\____/|_| |_| |_|
+//-------------------------------------------------------------------------
+
+@include "base.fgd" 
+
+@BaseClass color(0 0 200) base(Targetname, Angles, Shadow) = Item
+[
+	output OnPlayerTouch(void) : "Fires when the player touches this object"
+]
+
+@PointClass base(Item) studio("models/rupee/rupee_white.mdl")= white_rupee : "A white rupee (-100)" []
+@PointClass base(Item) studio("models/rupee/rupee_uvsru.mdl")= uv_rupee    : "A UV rupee (-20)" []
+@PointClass base(Item) studio("models/rupee/rupee_black.mdl")= black_rupee : "A black rupee (-10)" []
+@PointClass base(Item) studio("models/rupee/rupee_green.mdl")= green_rupee : "A green rupee (1)" []
+@PointClass base(Item) studio("models/rupee/rupee_bluer.mdl")= blue_rupee  : "A blue rupee (5)" []
+@PointClass base(Item) studio("models/rupee/rupee_yello.mdl")= yellow_rupee: "A yellow rupee (10)" []
+@PointClass base(Item) studio("models/rupee/rupee_redru.mdl")= red_rupee   : "A red rupee (20)" []
+@PointClass base(Item) studio("models/rupee/rupee_purpl.mdl")= purple_rupee: "A purple rupee (50)" []
+@PointClass base(Item) studio("models/rupee/rupee_silve.mdl")= silver_rupee: "A silver rupee (100)" []
+
+
+@BaseClass color(0 0 200) base(Targetname, Angles) = Weapon
+[
+	spawnflags(Flags) =
+	[
+		1 : "Start constrained" : 0
+	]
+
+	output OnPlayerUse(void) : "Fires when the player +uses this weapon"
+	output OnPlayerPickup(void) : "Fires when the player picks up this weapon"
+	output OnNPCPickup(void) : "Fires when an NPC picks up this weapon"
+]
+
+@PointClass base(Weapon) studio("models/weapons/mastersword.mdl") = weapon_mastersword : "Link's Master Sword" []
+

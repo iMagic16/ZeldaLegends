@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/LoZ/triforce"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "Metal_Box"
+	"$translucent" 1
+}

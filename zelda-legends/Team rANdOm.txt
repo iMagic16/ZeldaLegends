@@ -1,0 +1,125 @@
+====================================
+ _______                                  _   _     _  ____            
+|__   __|                           /\   | \ | |   | |/ __ \           
+   | | ___  __ _ _ __ ___     _ __ /  \  |  \| | __| | |  | |_ __ ___  
+   | |/ _ \/ _` | '_ ` _ \   | '__/ /\ \ | . ` |/ _` | |  | | '_ ` _ \ 
+   | |  __/ (_| | | | | | |  | | / ____ \| |\  | (_| | |__| | | | | | |
+   |_|\___|\__,_|_| |_| |_|  |_|/_/    \_\_| \_|\__,_|\____/|_| |_| |_|
+                                                                      
+
+
+====================================
+         << Website >>
+====================================
+
+>Main Website:         < http://wwww.randomgs.com >
+>>Websites' Forum:     < http://forum.randomgs.com >
+>>>>Game Mode Thread:  < http://forum.randomgs.com/index.php/topic,3254.0.html >
+>>>GoogleCode:         < http://code.google.com/p/zelda-legends/ >
+>>SVN:                 < http://zelda-legends.googlecode.com/svn/trunk/ >
+>ForTheLulz:           < http://www.chodecircus.com >
+
+====================================
+         << Team Members >>
+====================================
+
+>>>>Game Mode Leader
+>>>Magic
+
+
+>>>Coders(MainMen)
+>>Tomcat
+>>Magic
+>>Coolzeldad
+
+
+>>Mappers(Without them, All our base are enemies)
+>Magic[HF][LLR]
+>SMasters[GV]
+>Cable330[KV]
+>Cheesicle[HM]
+>Coolzeldad[HC][TOT][KF][OT]
+
+
+>>Audio Men(Beep de Boop)
+>DeathMD
+
+
+>>Materiallers Men(They will make you black)
+>Magic
+
+
+>>Modellers(Second most important)
+>Cake Faic
+>ItchyDani3l
+
+
+>>Server hosters(Without them, we are NULL entities)
+>PDAFreak14[24/7][2.6GHz Phenom 910, 6GB DDR3]
+>ServerFFS.com[3hr on final release][Unknown Server Specifications]
+>Coolzeldad[TBC]
+
+
+>>Script Hosting
+>http://www.googlecode.com
+
+
+
+====================================
+         << Other Info >>
+====================================
+
+
+!!!PLEASE MAKE SURE THE GAMEMODE FOLDER NAME IS "zelda-legends" OTHERWISE SOME LUA FILES WILL NOT WORK!!!
+
+
+Old version here: http://code.google.com/p/zeldalegends/
+
+Our version here: http://code.google.com/p/zelda-legends/
+
+
+License used is the same license used on the old gamemode to prevent copyright inflictions (GPL)
+
+
+ALL INVENTORY/RUPEE/EXP DATA ETC ARE STORED IN DATA/ZELDA-LEGENDS
+
+
+-ORIGINAL GAMEMODE WAS DEVELOPED BY RONON DEX-
+
+-GAMEMODE EXTENDED AND DEVELOPED INTO AN MMO BY Team rANdOm-
+
+====================================
+     << Third party content >>
+====================================
+
+>>If anybody uses any third party content in their commits, please update this to include them(please link to it if possible)
+
+
+>Nintendo (Sounds, Idea, etc)
+>Garrysmod.org (For providing placeholder models)
+>LoZ HQ Texture Pack (Providing OOT HQ textures for usage in maps)
+>LuckyLuke & Crazy Quebecer (Providing original base NPC shop scripts)
+
+
+
+====================================
+         << Liscencing >>
+====================================
+
+http://www.gnu.org/licenses/gpl.html
+
+
+====================================
+  << Initiate Thank you message >>
+====================================
+
+
+>>>Initiating Thank you message
+
+>I hope this gamemode will succeed and not be given up on so early, don't forget the feeling when you complete something nice :) 
+
+>Special thanks to the team and all their efforts and commitment put into this!
+
+
+
+-Magic
